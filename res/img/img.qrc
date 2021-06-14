@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="/">
+    <file>laser-beam.png</file>
+    <file>icon-radius.png</file>
+    <file>icon-axis.png</file>
+  </qresource>
+</RCC>

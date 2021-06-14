@@ -1,0 +1,12 @@
+{
+	"accuracy" : 50,
+	"back-point-size" : 10, 
+	"front-point-size" : 5, 
+	"back-point-color" : [1.0, 0.0, 0.0, 0.5], 
+	"front-point-color" : [1.0, 0.0, 0.0, 1.0],
+	"cur-tar-point-size" : 7,
+	"current-point-color" : [0.0, 1.0, 0.0, 1.0],
+	"target-point-color" : [1.0, 0.0, 0.0, 1.0],
+	"grid-point-size" : 15,
+	"grid-point-color" : [0.0, 0.0, 0.0, 0.5]
+}
